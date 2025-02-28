@@ -1,4 +1,3 @@
-# Ai-task-for-Job-Interview
 # Duplicate Question Detection Using Machine Learning  
 
 This project focuses on detecting duplicate questions using **Natural Language Processing (NLP)** and **Machine Learning (ML)**. It applies **text preprocessing, feature extraction, and classification models** to determine whether two questions have the same meaning.  
